@@ -8,7 +8,7 @@
   <li>Acredito na capacidade de enfrentar desafios em equipe</li>
 </ul>
 
-
+#
 
   ### 🪓 Linguagens e Tecnologias
 
