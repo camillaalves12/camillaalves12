@@ -36,18 +36,23 @@
 ##
 
 <div style="display: flex;">
+  
   <a href="https://github.com/camillaalves12">
     <img height="120em" src="https://streak-stats.demolab.com/?user=camillaalves12&theme=radical" style="margin: 10px;"/>
     <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillaalves12&layout=compact&langs_count=7&theme=dracula"/>
     <img height="120em" src="https://github-readme-stats.vercel.app/api?username=camillaalves12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
+  
 </div>
+
  
  ##
  
 <div style="display: inline_block"><br>
+  
   <a href = "mailto:camillaalvesvagas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camilla-alves-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
 
 
