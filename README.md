@@ -3,12 +3,12 @@
 # Oii, eu sou a Camilla Alves!!
 
 ### 🙋‍♀️ Sobre mim
-<div>
-👩‍🎓Sou graduanda de Sistemas de Informação
-👩‍💻Sou desenvolvedora frontend com foco em React
-🦾 Acredito na capacidade de enfrentar desafios em equipe
-</div>
 
+<div>
+  👩‍🎓Sou graduanda de Sistemas de Informação
+  👩‍💻Sou desenvolvedora frontend com foco em React
+  🦾 Acredito na capacidade de enfrentar desafios em equipe
+</div>
 
 </div>
 
