@@ -35,7 +35,7 @@
   
 ##
 
-  ### 📊 Meu Stats
+  ### 📊 Stats
   
 <div align="center" style="display: flex;">
 
