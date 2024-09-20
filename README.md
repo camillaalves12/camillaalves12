@@ -13,8 +13,8 @@
   
 <img height="150em" src="https://streak-stats.demolab.com/?user=camillaalves12&theme=radical"/>
 
-<img height="150em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img height="150em" src="https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB"/>
+<img height="50em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img height="50em" src="https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB"/>
 ##
 
 <div style="display: inline_block"><br>
