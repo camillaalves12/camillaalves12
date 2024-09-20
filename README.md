@@ -1,10 +1,10 @@
 <div align="center">
 
-## Oii, eu sou a Camilla Alves!!
+### Oii, eu sou a Camilla Alves!!
 
 <div>
-  👩‍🎓Sou graduanda de Sistemas de Informação<br>
-  👩‍💻Sou desenvolvedora frontend com foco em React<br>
+  👩‍🎓 Sou graduanda de Sistemas de Informação<br>
+  👩‍💻 Sou desenvolvedora frontend com foco em React<br>
   🦾 Acredito na capacidade de enfrentar desafios em equipe<br>
 </div>
 
