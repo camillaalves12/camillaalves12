@@ -1,3 +1,4 @@
+<div align="center">
 
 # Oii, eu sou a Camilla Alves!!
 
@@ -8,6 +9,9 @@
   <li>Sou desenvolvedora frontend com foco em React</li>
   <li>Acredito na capacidade de enfrentar desafios em equipe</li>
 </ul>
+
+</div>
+
 
 #
 
