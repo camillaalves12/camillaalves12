@@ -1,6 +1,6 @@
 ## Oii, eu sou a Camilla Alves!!
 
-  ### Linguagens e Tecnologias
+  ### 🪓 Linguagens e Tecnologias
 
 <div style="display: inline_block"><br>
 <img height="30em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
