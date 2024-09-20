@@ -5,9 +5,9 @@
 ### 🙋‍♀️ Sobre mim
 
 <div>
-  👩‍🎓Sou graduanda de Sistemas de Informação
-  👩‍💻Sou desenvolvedora frontend com foco em React
-  🦾 Acredito na capacidade de enfrentar desafios em equipe
+  👩‍🎓Sou graduanda de Sistemas de Informação<br>
+  👩‍💻Sou desenvolvedora frontend com foco em React<br>
+  🦾 Acredito na capacidade de enfrentar desafios em equipe<br>
 </div>
 
 </div>
