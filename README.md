@@ -22,7 +22,7 @@
   
 ##
 
-<div style="display: inline-block;">
+<div style="display: flex;">
   <a href="https://github.com/camillaalves12">
     <img height="120em" src="https://streak-stats.demolab.com/?user=camillaalves12&theme=radical" style="margin: 10px;"/>
     <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillaalves12&layout=compact&langs_count=7&theme=dracula"/>
