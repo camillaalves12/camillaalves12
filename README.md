@@ -1,6 +1,5 @@
 <div align="center">
 
-<h2>Oii, eu sou a Camilla Alves!!</h2>
 
 <div>
   👩‍🎓Sou graduanda de Sistemas de Informação<br>
