@@ -22,14 +22,14 @@
   
 ##
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block;">
   <a href="https://github.com/camillaalves12">
-    <img height="120em" src="https://streak-stats.demolab.com/?user=camillaalves12&theme=radical"/>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=camillaalves12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-    <br> 
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillaalves12&layout=compact&langs_count=7&theme=dracula"/> 
+    <img height="120em" src="https://streak-stats.demolab.com/?user=camillaalves12&theme=radical" style="margin: 10px;"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=camillaalves12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="margin: 10px;"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillaalves12&layout=compact&langs_count=7&theme=dracula" style="margin: 10px;"/>
   </a>
 </div>
+
  
  ##
 <div style="display: inline_block"><br>
