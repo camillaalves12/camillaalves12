@@ -5,7 +5,7 @@
 <div>
   👩‍🎓 Graduanda de Sistemas de Informação<br>
   👩‍💻 Desenvolvedora frontend com foco em React<br>
-  🦾 Acredito na capacidade de enfrentar desafios em equipe<br>
+  🦾 Acredito na capacidade de enfrentar desafios em equipe
 </div>
 
 </div>
