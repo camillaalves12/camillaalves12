@@ -38,7 +38,7 @@
 
   ### 📊 Meu Stats
   
-<div style="display: flex;">
+<div align="center" style="display: flex;">
 
   
   <a href="https://github.com/camillaalves12">
