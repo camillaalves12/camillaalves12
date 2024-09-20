@@ -21,6 +21,7 @@
 ##
 
 <div>
+  ## Linguagens e Tecnologias
   <a href="https://github.com/camillaalves12">
     <img height="130em" src="https://streak-stats.demolab.com/?user=camillaalves12&theme=radical"/>
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=camillaalves12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
