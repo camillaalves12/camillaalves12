@@ -4,7 +4,7 @@
 
 <div>
   👩‍🎓 Graduada em Sistemas de Informação<br>
- 👩‍🎓 Pós- Graduada em Engenharia de Software<br>
+ 👩‍🎓 Pós-Graduada em Engenharia de Software<br>
   👩‍💻 Desenvolvedora frontend com foco em React<br>
   🦾 Acredito na capacidade de enfrentar desafios em equipe
 </div>
