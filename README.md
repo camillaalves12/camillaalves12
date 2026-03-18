@@ -3,7 +3,7 @@
 ## **Oii, eu sou a Camilla Alves!!** <br>
 
 <div>
-  👩‍🎓 Graduanda de Sistemas de Informação<br>
+  👩‍🎓 Graduada em Sistemas de Informação<br>
   👩‍💻 Desenvolvedora frontend com foco em React<br>
   🦾 Acredito na capacidade de enfrentar desafios em equipe
 </div>
